@@ -30,9 +30,9 @@
 	<key>NSCameraUsageDescription</key>
 	<string>Used for live broadcasting</string>
 	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
-	<string>Used for getting location</string>
+	<string>This allows us to identify your current location where you are live streaming / recording the videos, so the TV station identifies the real location of the user to verify the authenticity.</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>Used for getting location</string>
+	<string>This allows us to identify your current location where you are live streaming / recording the videos, so the TV station identifies the real location of the user to verify the authenticity.</string>
 	<key>NSMicrophoneUsageDescription</key>
 	<string>Used for live broadcasting</string>
 	<key>NSPhotoLibraryUsageDescription</key>
@@ -69,7 +69,6 @@
 	<true/>
 	<key>UIBackgroundModes</key>
 	<array>
-		<string>audio</string>
 		<string>remote-notification</string>
 	</array>
 	<key>UILaunchStoryboardName</key>
